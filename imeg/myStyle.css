@@ -105,22 +105,22 @@ a.delete{
 a.delete:hover{}
    
 table {
-    width: 100%; /* Ширина таблицы */
-    border-collapse: collapse; /* Убираем двойные линии между ячейками */
+    width: 100%; 
+    border-collapse: collapse; 
 }
 .shir{
     width: 250px;
 }
 td, th {
-    padding: 4px; /* Поля в ячейках */
-    border: 1px solid #000000; /* Граница между ячейками */
+    padding: 4px;
+    border: 1px solid #000000;
 }
 td.clr{
     background: #a0a0a0;
 }
 thead {
-    background: #666; /* Цвет фона строки заголовка */
-    color: #fff; /* Цвет текста */
+    background: #666; 
+    color: #fff; 
 }
 
 
